@@ -1,2 +1,3 @@
 # PRO192-Materials
-PRO192-Materials
+Material for Object Oriented Programming with Java at FPTU University
+
